@@ -1,1 +1,0 @@
-/usr/bin/g++-10 CMakeFiles/reduction_coalesced.dir/reduction_coalesced.cu.o -o reduction_coalesced  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu"

@@ -1,1 +1,0 @@
-/usr/bin/g++-10 CMakeFiles/reduce.dir/src/main.cu.o CMakeFiles/reduce.dir/src/reduction.cu.o CMakeFiles/reduce.dir/src/timer.cu.o CMakeFiles/reduce.dir/cmake_device_link.o -o reduce  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu"

@@ -1,1 +1,0 @@
-/usr/bin/g++-10 CMakeFiles/note0_vectoradd.dir/vectoradd.cu.o -o note0_vectoradd  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu"
